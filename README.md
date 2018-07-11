@@ -14,4 +14,4 @@ For example RNA PKB236 dual-graph has 7 vertices (correspondng to 7 stems)
    
     When the program is run, the user enters first the number of vertices (in this case 7) 
     and the Motif id (in this case PKB236)
-  
+    The output of the program is written into the file outfile.open("C:/Users/lpetn_000/desktop/RnaDv/PKB236_out.txt");
