@@ -21,10 +21,14 @@ For example RNA PKB 236 dual-graph has 7 vertices (correspondng to 7 stems) labe
 
 (6,0) - (5,6) - (5,6) - (4,5) - (4,5) - (3,4) - (3,4) - (2,3) - (2,3) - (1,2) - (1,2) - (0,1) - (0,1) - 
 
-degree of 6 is 3. degree of 5 is 4. degree of 4 is 4. degree of 3 is 4. degree of 2 is 4. degree of 0 is 3. degree of 1 is 4.
 ---- this block represents a pseudoknot ----
+
 ----------- Summary information for Motif :PKB 236 --------------------------------
+
 ----------- Total number of blocks: 1
+
 ----------- number of PK blocks: 1
------------ Total umber of regular blocks : 0
+
+----------- Total number of regular blocks : 0
+
 -----------------------------------------------------
