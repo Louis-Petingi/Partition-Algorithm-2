@@ -8,7 +8,9 @@ For example RNA PKB236 has 7 vertices (correspondng to 7 stems)
     2    0   2   0   0   0     0      
     0    2   0   2   0   0     0       
     0    0   2   0   2   0     0       
-    0    0   0   2   0   2     0      
+    0    0   0   2   0   2     0  
+    0    0   0   0   2   0     2     
+    1    0   0   0   0   2     0    
    
     When the program is run, the user enters first the number of vertices (in this case 7) 
     and the Motif id (in this case PKB236)
